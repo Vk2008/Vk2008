@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vk2008
 - 👀 I’m interested in astronomy and programming
-- 🌱 I’m currently learning construct and C#
-- 💞️ I’m looking to collaborate on gaming and programming platforms
+- 🌱 I’m currently learning Python, HTML and CSS.
+- 💞️ I’m looking to collaborate programming platforms
 - 📫 reach me at my mail address vk18012008@outlook.com
 
 <!---
