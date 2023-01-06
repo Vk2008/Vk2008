@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vk2008
+- 👋 Hi, I’m Vanshika
 - 👀 I’m interested in astronomy and programming
 - 🌱 I’m currently learning Python, HTML and CSS.
 - 💞️ I’m looking to collaborate programming platforms
