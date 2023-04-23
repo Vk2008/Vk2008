@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Vanshika
-- 👀 I’m interested in astronomy and programming
-- 🌱 I’m currently learning Python, HTML and CSS.
-- 💞️ I’m looking to collaborate programming platforms
-- 📫 reach me at my mail address vk18012008@outlook.com
+- 👀 I’m interested in astrophysics and programming.
+- 🌱 I’m currently learning Python, Flutter, HTML and CSS.
+- 📫 reach me at my mail address vk18012008@gmail.com
 
 <!---
 Vk2008/Vk2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
