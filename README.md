@@ -1,6 +1,6 @@
 - 👋 Vanshika
 - 👀 interested in astrophysics and programming.
-- 🌱 currently learning Python, Flutter, HTML and CSS.
+- 🌱 currently learning Python, Julia.
 - 📫 reach me at vk18012008@gmail.com
 
 <!---
